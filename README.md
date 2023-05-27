@@ -1,5 +1,4 @@
-Sleep Health and Lifestyle Analysis
-
+###SLEEP
 This project uses a dataset on sleep health and lifestyle factors to analyze the relationship between sleep duration and various independent variables such as stress level, physical activity level, and quality of sleep. It utilizes the scikit-learn library to perform linear regression and make predictions based on user input.
 
 Getting Started
